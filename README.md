@@ -27,5 +27,5 @@ and more...
 ## 🧩 Example M3U Usage
 
 ```m3u
-#EXTINF:-1 tvg-id="colors-hd" tvg-name="Colors HD" tvg-logo="https://yourdomain.com/logos/colors-hd.png",Colors HD
+#EXTINF:-1 tvg-id="colors-hd" tvg-name="Colors HD" tvg-logo="https://raw.githubusercontent.com/himanshu-temp/Logos/refs/heads/main/Jio_logos/Colors_HD.png",Colors HD
 http://your-stream-url.com/stream/colors-hd.m3u8
